@@ -16,7 +16,25 @@ public class Java1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello, W");
+    
+        
+       //***********************************
+       //定数
+       //***********************************
+       
+       //***********************************
+       //変数
+       //***********************************
+       boolean loopFlg = true;//ループフラグ
+       int inputNum = 0;//入力番号
+       
+       //***********************************
+       //メイン処理
+       //***********************************
+       while(loopFlg){
+           
+         
+       } 
     }
     
 }
